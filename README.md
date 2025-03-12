@@ -4,6 +4,10 @@
 
 A sleek and modern Mini Calendar built using HTML, CSS, and JavaScript. This dynamic calendar automatically displays the current date with an eye-catching design.
 
+## 🖥️ Live Demo
+
+- 👉 View Live Demo    https://dwivedikirtiman.github.io/Mini-Calendar/
+
 ## 🌟 Features
 
 - Displays the current month, day of the week, day number, and year
